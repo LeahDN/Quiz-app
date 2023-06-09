@@ -11,6 +11,12 @@
 		BDC9D9062A337C9F0003E35B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D9052A337C9F0003E35B /* ContentView.swift */; };
 		BDC9D9082A337CA00003E35B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDC9D9072A337CA00003E35B /* Assets.xcassets */; };
 		BDC9D90B2A337CA00003E35B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDC9D90A2A337CA00003E35B /* Preview Assets.xcassets */; };
+		BDC9D9122A337D080003E35B /* LearnPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D9112A337D080003E35B /* LearnPage.swift */; };
+		BDC9D9142A337D1A0003E35B /* Marvel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D9132A337D1A0003E35B /* Marvel.swift */; };
+		BDC9D9162A337D310003E35B /* Simpsons.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D9152A337D310003E35B /* Simpsons.swift */; };
+		BDC9D9182A337D430003E35B /* Pixar.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D9172A337D430003E35B /* Pixar.swift */; };
+		BDC9D91A2A337D570003E35B /* HarryPotter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D9192A337D570003E35B /* HarryPotter.swift */; };
+		BDC9D91C2A337F0B0003E35B /* Final.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC9D91B2A337F0B0003E35B /* Final.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		BDC9D9052A337C9F0003E35B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDC9D9072A337CA00003E35B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDC9D90A2A337CA00003E35B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDC9D9112A337D080003E35B /* LearnPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnPage.swift; sourceTree = "<group>"; };
+		BDC9D9132A337D1A0003E35B /* Marvel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marvel.swift; sourceTree = "<group>"; };
+		BDC9D9152A337D310003E35B /* Simpsons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpsons.swift; sourceTree = "<group>"; };
+		BDC9D9172A337D430003E35B /* Pixar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pixar.swift; sourceTree = "<group>"; };
+		BDC9D9192A337D570003E35B /* HarryPotter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarryPotter.swift; sourceTree = "<group>"; };
+		BDC9D91B2A337F0B0003E35B /* Final.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Final.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +65,12 @@
 			children = (
 				BDC9D9032A337C9F0003E35B /* Quiz_appApp.swift */,
 				BDC9D9052A337C9F0003E35B /* ContentView.swift */,
+				BDC9D9112A337D080003E35B /* LearnPage.swift */,
+				BDC9D9132A337D1A0003E35B /* Marvel.swift */,
+				BDC9D9152A337D310003E35B /* Simpsons.swift */,
+				BDC9D9172A337D430003E35B /* Pixar.swift */,
+				BDC9D9192A337D570003E35B /* HarryPotter.swift */,
+				BDC9D91B2A337F0B0003E35B /* Final.swift */,
 				BDC9D9072A337CA00003E35B /* Assets.xcassets */,
 				BDC9D9092A337CA00003E35B /* Preview Content */,
 			);
@@ -137,8 +155,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDC9D91C2A337F0B0003E35B /* Final.swift in Sources */,
 				BDC9D9062A337C9F0003E35B /* ContentView.swift in Sources */,
 				BDC9D9042A337C9F0003E35B /* Quiz_appApp.swift in Sources */,
+				BDC9D91A2A337D570003E35B /* HarryPotter.swift in Sources */,
+				BDC9D9182A337D430003E35B /* Pixar.swift in Sources */,
+				BDC9D9142A337D1A0003E35B /* Marvel.swift in Sources */,
+				BDC9D9122A337D080003E35B /* LearnPage.swift in Sources */,
+				BDC9D9162A337D310003E35B /* Simpsons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
