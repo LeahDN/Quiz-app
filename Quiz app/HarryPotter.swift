@@ -9,6 +9,7 @@ import SwiftUI
 
 struct HarryPotter: View {
     @State var answer = "dots"
+    //@State private var Score = 0
     var body: some View {
         NavigationStack {
             
@@ -28,6 +29,7 @@ struct HarryPotter: View {
                     
                     Button("Peaves the Poltergeist") {
                         answer = "Check 1"
+                        //Score = Score+1
                     }
                     .foregroundColor(Color(hue: 1.0, saturation: 0.0, brightness: 0.18))
                     .padding(.horizontal)
